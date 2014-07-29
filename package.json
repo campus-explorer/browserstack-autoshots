@@ -1,0 +1,7 @@
+{
+  "repository": {},
+  "dependencies": {
+    "browserstack-webdriver": "^2.41.1"
+  },
+  "devDependencies": {}
+}
