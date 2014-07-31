@@ -1,3 +1,4 @@
 /node_modules
 .DS_Store
 browserstack.config
+_SpecRunner.html
