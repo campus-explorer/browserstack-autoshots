@@ -3,6 +3,8 @@ Browserstack-autoshots
 
 
 **config file format**
+
+
 *configuration*
 - user: Browserstack user name,
 - key: key provided by Browserstack for that user,
