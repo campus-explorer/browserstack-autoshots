@@ -2,5 +2,4 @@
 /binaries
 /screenshots
 .DS_Store
-browserstack.config
-_SpecRunner.html
+*.config
